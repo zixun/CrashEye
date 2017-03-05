@@ -1,5 +1,4 @@
 #CrashEye
-=======
 
 [![Version](https://img.shields.io/cocoapods/v/CrashEye.svg?style=flat)](http://cocoapods.org/pods/CrashEye)
 [![License](https://img.shields.io/cocoapods/l/CrashEye.svg?style=flat)](http://cocoapods.org/pods/CrashEye)
