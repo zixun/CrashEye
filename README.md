@@ -1,11 +1,11 @@
 #CrashEye
 =======
-# CrashEye
 
-[![CI Status](http://img.shields.io/travis/zixun/CrashEye.svg?style=flat)](https://travis-ci.org/zixun/CrashEye)
 [![Version](https://img.shields.io/cocoapods/v/CrashEye.svg?style=flat)](http://cocoapods.org/pods/CrashEye)
 [![License](https://img.shields.io/cocoapods/l/CrashEye.svg?style=flat)](http://cocoapods.org/pods/CrashEye)
 [![Platform](https://img.shields.io/cocoapods/p/CrashEye.svg?style=flat)](http://cocoapods.org/pods/CrashEye)
+
+CrashEye is an ios crash monitor，automatic catch exception crash & signal crash and return the stacktrace
 
 ## Family
 This library is derived from the [GodEye](https://github.com/zixun/GodEye) project which can automaticly display Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder and etc with one line of code. Just like god opened his eyes
