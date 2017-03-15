@@ -142,6 +142,8 @@ public class CrashEye: NSObject {
         signal(SIGFPE, CrashEye.RecieveSignal)
         signal(SIGBUS, CrashEye.RecieveSignal)
         signal(SIGPIPE, CrashEye.RecieveSignal)
+        //http://stackoverflow.com/questions/36325140/how-to-catch-a-swift-crash-and-do-some-logging
+        signal(SIGTRAP, CrashEye.RecieveSignal)
     }
     
     private static let RecieveException: @convention(c) (NSException) -> Swift.Void = {
