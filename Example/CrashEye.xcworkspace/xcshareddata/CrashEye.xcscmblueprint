@@ -1,15 +1,15 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8396138B7A69D289A67D2AF55D424E3DA829BA41",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "176CADFAA9739C57FD277A2658D64742B30CB35F",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "8396138B7A69D289A67D2AF55D424E3DA829BA41" : 9223372036854775807,
+    "176CADFAA9739C57FD277A2658D64742B30CB35F" : 9223372036854775807,
     "BF1F56C483977AC36F575A9C50FB74A7EFF41C69" : 9223372036854775807
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "46A1C854-1ED4-478B-BCA5-627F7125A0A8",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "8396138B7A69D289A67D2AF55D424E3DA829BA41" : "CrashEye\/",
+    "176CADFAA9739C57FD277A2658D64742B30CB35F" : "CrashEye\/",
     "BF1F56C483977AC36F575A9C50FB74A7EFF41C69" : "..\/.."
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "CrashEye",
@@ -19,7 +19,7 @@
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git.oschina.net:GodEyeSwift\/CrashEye.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8396138B7A69D289A67D2AF55D424E3DA829BA41"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "176CADFAA9739C57FD277A2658D64742B30CB35F"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git.oschina.net:zixunapp\/AppSaber-MAC.git",
