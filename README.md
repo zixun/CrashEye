@@ -3,6 +3,7 @@
 [![Version](https://img.shields.io/cocoapods/v/CrashEye.svg?style=flat)](http://cocoapods.org/pods/CrashEye)
 [![License](https://img.shields.io/cocoapods/l/CrashEye.svg?style=flat)](http://cocoapods.org/pods/CrashEye)
 [![Platform](https://img.shields.io/cocoapods/p/CrashEye.svg?style=flat)](http://cocoapods.org/pods/CrashEye)
+[![Carthage compatible](https://img.shields.io/badge/Carthage-Compatible-brightgreen.svg?style=flat)](https://github.com/Carthage/Carthage) 
 
 CrashEye is an ios crash monitor，automatic catch exception crash & signal crash and return the stacktrace
 
@@ -21,12 +22,20 @@ This library is derived from the [GodEye](https://github.com/zixun/GodEye) proje
 
 ## Installation
 
+### CocoaPods
 CrashEye is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
 pod "CrashEye"
 ```
+
+### Carthage
+Or, if you’re using [Carthage](https://github.com/Carthage/Carthage), add SwViewCapture to your Cartfile:
+
+``` 
+github "zixun/CrashEye"
+
 ## Usage
 ### open and add delegate
 
