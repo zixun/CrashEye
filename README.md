@@ -42,7 +42,6 @@ github "zixun/CrashEye"
 
 ```swift
 CrashEye.add(delegate: self)
-CrashEye.open()
 ```
 
 ### implement the delegate
