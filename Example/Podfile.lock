@@ -1,5 +1,5 @@
 PODS:
-  - CrashEye (1.0.0)
+  - CrashEye (1.1.2)
 
 DEPENDENCIES:
   - CrashEye (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  CrashEye: eb7fb132dd1612f163d456142c451151df1f8e99
+  CrashEye: b96e2f93d770677cf3c50e134e8123207d8a6623
 
 PODFILE CHECKSUM: 9e0da17e46e41bc2d6df8c392ec74790b310654f
 
-COCOAPODS: 1.2.0
+COCOAPODS: 1.5.0
